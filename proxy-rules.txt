@@ -1,0 +1,6 @@
+payload:
+  - DOMAIN-SUFFIX,civitai.com
+  - DOMAIN-SUFFIX,packagist.org
+  - DOMAIN-SUFFIX,nivodz.com
+  - DOMAIN-SUFFIX,nivod4.com
+  - DOMAIN-SUFFIX,nivod4.tv
