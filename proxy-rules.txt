@@ -1,6 +1,7 @@
 payload:
-  - DOMAIN-SUFFIX,civitai.com
+  - DOMAIN,civitai.com
   - DOMAIN-SUFFIX,packagist.org
   - DOMAIN-SUFFIX,nivodz.com
   - DOMAIN-SUFFIX,nivod4.com
   - DOMAIN-SUFFIX,nivod4.tv
+  - DOMAIN-SUFFIX,openai.com
