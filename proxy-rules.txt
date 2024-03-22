@@ -5,3 +5,4 @@ payload:
   - DOMAIN-SUFFIX,nivod4.com
   - DOMAIN-SUFFIX,nivod4.tv
   - DOMAIN-SUFFIX,openai.com
+  - DOMAIN-SUFFIX,google.com
